@@ -8,7 +8,7 @@
 
 ## Ссылка на проект
 
-
+https://case-lab-mobx-to-do-list.vercel.app/
 
 ## Особенности
 

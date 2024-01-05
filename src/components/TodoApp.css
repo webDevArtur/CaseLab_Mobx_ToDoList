@@ -1,0 +1,109 @@
+.todo-app {
+    width: 100%;
+    margin: 0 auto;
+    font-family: 'Arial', sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: #1d1ba3;
+    font-weight: bold;
+}
+
+.create-todo {
+    margin-bottom: 20px;
+}
+
+.reload {
+    margin-top: 20px;
+    background-color: #1d1ba3;
+    color: #f4f6f9;
+}
+
+h2 {
+    display: flex;
+    justify-content: center;
+}
+
+ul {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    padding: 20px;
+    width: 80%;
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border: black 1px solid;
+    font-size: 24px;
+    background-color: #f4f6f9;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+}
+
+.completed {
+    text-decoration: line-through;
+    color: #1d1ba3;
+}
+
+.delete {
+    color: white;
+    background-color: #1d1ba3;
+}
+
+.checkbox {
+    color: white;
+    margin-right: 20px;
+    width: 50px;
+}
+
+.header{
+    display: flex;
+    flex-direction: row;
+}
+
+.reload-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+button{
+    background-color: #1d1ba3;
+    color: #f4f6f9;
+    font-weight: bold;
+    height: 30px;
+}
+
+button:active{
+    background-color: #2362cc;
+}
+
+input{
+    height: 25px;
+    margin-right: 8px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+form{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.delete{
+margin-left: 20px;
+}
+
+.checkbox{
+margin-right: 20px;
+}

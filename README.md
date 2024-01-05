@@ -10,6 +10,10 @@
 
 https://case-lab-mobx-to-do-list.vercel.app/
 
+## Скриншоты
+
+![image](https://github.com/webDevArtur/CaseLab_Mobx_ToDoList/assets/141954990/ba52df21-1b6a-4ff6-b05c-8721a5a01083)
+
 ## Особенности
 
 - Добавление, удаление и отметка задач как выполненных.
